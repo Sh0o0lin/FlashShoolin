@@ -1,32 +1,5 @@
-# PythonFlash. 
-# About [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/wilfredinni/python-cheatsheet/master?filepath=jupyter_notebooks)
-
-Basic cheatsheet for Python mostly based on the book written by Al Sweigart, [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-sa/3.0/) and many other sources.
-
-## Contribute
-
-All contributions are welcome:
-
-- Read the issues, Fork the project and do a Pull Request.
-- Request a new topic creating a `New issue` with the `enhancement` tag.
-- Find any kind of errors in the cheat sheet and create a `New issue` with the details or fork the project and do a Pull Request.
-- Suggest a better or more pythonic way for existing examples.
-
-## Read It
-
-- [Website](https://www.pythoncheatsheet.org)
-- [Github](https://github.com/wilfredinni/python-cheatsheet)
-- [PDF](https://github.com/wilfredinni/Python-cheatsheet/raw/master/python_cheat_sheet.pdf)
-- [Jupyter Notebook](https://mybinder.org/v2/gh/wilfredinni/python-cheatsheet/master?filepath=jupyter_notebooks)
-
-## Python Cheatsheet
-
-- [About](#about)
-  - [Contribute](#contribute)
-  - [Read It](#read-it)
-  - [Python Cheatsheet](#python-cheatsheet)
-  - [The Zen of Python](#the-zen-of-python)
-  - [Python Basics](#python-basics)
+# PythonFlash
+- [Python Basics](#python-basics)
     - [Math Operators](#math-operators)
     - [Data Types](#data-types)
     - [String Concatenation and Replication](#string-concatenation-and-replication)
@@ -38,12 +11,12 @@ All contributions are welcome:
     - [The str(), int(), and float() Functions](#the-str-int-and-float-functions)
   - [Flow Control](#flow-control)
     - [Comparison Operators](#comparison-operators)
-    - [Boolean evaluation](#boolean-evaluation)
+    - [Boolean evaluation](#boolean-eval
     - [Boolean Operators](#boolean-operators)
     - [Mixing Boolean and Comparison Operators](#mixing-boolean-and-comparison-operators)
     - [if Statements](#if-statements)
     - [else Statements](#else-statements)
-    - [elif Statements](#elif-statements)
+    - [elif Statements](#elif-statements
     - [while Loop Statements](#while-loop-statements)
     - [break Statements](#break-statements)
     - [continue Statements](#continue-statements)
