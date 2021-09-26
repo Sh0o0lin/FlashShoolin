@@ -11,12 +11,12 @@
     - [The str(), int(), and float() Functions](#the-str-int-and-float-functions)
   - [Flow Control](#flow-control)
     - [Comparison Operators](#comparison-operators)
-    - [Boolean evaluation](#boolean-eval
+    - [Boolean evaluation](#boolean-evaluation)
     - [Boolean Operators](#boolean-operators)
     - [Mixing Boolean and Comparison Operators](#mixing-boolean-and-comparison-operators)
     - [if Statements](#if-statements)
     - [else Statements](#else-statements)
-    - [elif Statements](#elif-statements
+    - [elif Statements](#elif-statements)
     - [while Loop Statements](#while-loop-statements)
     - [break Statements](#break-statements)
     - [continue Statements](#continue-statements)
