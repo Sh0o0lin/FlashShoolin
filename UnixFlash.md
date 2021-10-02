@@ -1,23 +1,23 @@
-# <span style="color:#4392F1">Unix/Linux Flash</span>
+# Unix/Linux Flash
 
 
-## <span style="color:#D8E5B"> File Commands </span>
-- <span style="color:#D81E5B"> List directory </span>
+## File Commands
+-  List directory 
 
         ls 
 
-    ### <span style="color:#7EB77F">Output</span>
+    ### Output
     
     ```
     PythonFlash.md  README.md  UnixFlash.md
     ``` 
 
 
-- <span style="color:#D81E5B"> Formatted listing with hidden files </span>
+-  Formatted listing with hidden files 
 
         ls -al
 
-    ### <span style="color:#7EB77F">Output</span>
+    ### Output
     
     ```
     total 124
@@ -28,33 +28,32 @@
     -rw-rw-r--  1 mr_nimbus mr_nimbus   1049 Oct  2 14:04 UnixFlash.md
     ```
 
-- <span style="color:#D81E5B"> Force remove directory </span>
+-  Force remove directory 
 
         rm -rf dir 
 
-    ### <span style="color:#7EB77F">Output</span>
+    ### Output
     
     ```
     dir and its files will deleted (-r delete dir, -f delete files)
     ```     
 
-- <span style="color:#D81E5B"> Copy content </span>
+-  Copy content 
 
         cp -r dir1 dir2 
 
-    ### <span style="color:#7EB77F">Output</span>
+    ### Output
     
     ```
     copy dir1 to dir2 (-r create dir2 if it doesn't exist)
     ```     
  
-- <span style="color:#D81E5B"> Rename or Move file </span>
+-  Rename or Move file 
 
         mv file1 file2  
 
-    ### <span style="color:#7EB77F">Output</span>
+    ### Output
     
     ```
     will rename file1 to file2
     ```     
-
